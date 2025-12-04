@@ -139,13 +139,3 @@ A preview C# port using **Avalonia UI** is included in the `Cross-platform/` dir
 
 ## 📜 License
 This project is intended for educational use. Modify or extend as needed.
-
----
-
-### ⭐ If you'd like, I can also:
-- Rebrand the project with a **new name**  
-- Rewrite class/file names to avoid similarity  
-- Create a **logo**, **badges**, and a GitHub project structure  
-- Generate a **professional README header**  
-
-Just tell me!  
